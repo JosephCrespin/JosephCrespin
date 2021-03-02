@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! it's Joseph👋
 
-<!--
-**JosephCrespin/JosephCrespin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning web development in the bootcamp of Factoriaf5 digital school
+- 👯 I’m looking to collaborate in open source projects to grow in the development world
+- 🤔 I’m looking for help with React.js
+- 💬 Ask me about figma and games!
+- ⚡ Fun fact: Addicted to Ctrl+S
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-blue) ![](https://img.shields.io/badge/-JavaScript-yellow) ![](https://img.shields.io/badge/-Vue.js-success) ![](https://img.shields.io/badge/-PHP-inactive) ![](https://img.shields.io/badge/-Laravel-red) ![](https://img.shields.io/badge/-MySQL-blueviolet)
+
+<a href="https://www.linkedin.com/in/josephcrespin//"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/IsmaX321"><img src="https://img.shields.io/twitter/follow/lorcrim92?label=Twitter&style=social" alt="Twitter"></a>
