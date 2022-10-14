@@ -2,9 +2,8 @@
 
 
 - 🔭 I’m currently working on my website
-- 🌱 I’m currently learning and looking for a job.
+- 🌱 I’m currently learning everyday.
 - 👯 I’m looking to collaborate in open source projects to grow in the development world
-- 🤔 I’m looking for help with React.js
 - 💬 Ask me about figma and games!
 - ⚡ Fun fact: Addicted to Ctrl+S
 
